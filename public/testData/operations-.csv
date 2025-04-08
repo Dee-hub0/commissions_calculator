@@ -1,0 +1,12 @@
+4/1/2025,12345,private,deposit,500,USD
+4/2/2025,12345,private,withdraw,150,USD
+4/3/2025,12345,private,withdraw,200,EUR
+4/3/2025,12345,private,withdraw,50,JPY
+4/4/2025,54321,business,deposit,1000,EUR
+4/5/2025,54321,business,withdraw,300,USD
+4/6/2025,54321,private,withdraw,350,JPY
+4/7/2025,67890,private,withdraw,900,USD
+4/8/2025,67890,private,deposit,250,JPY
+4/9/2025,67890,business,withdraw,500,EUR
+4/10/2025,12345,private,deposit,300,EUR
+4/11/2025,54321,business,withdraw,400,JPY
