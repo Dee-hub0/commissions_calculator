@@ -1,7 +1,7 @@
 ```markdown
 # Commission Calculator 🛫
 
-A simple PHP application to calculate commissions from a CSV file, with an optional integration to exchange rates.
+A simple PHP application to calculate commissions from a CSV file.
 
 ---
 
